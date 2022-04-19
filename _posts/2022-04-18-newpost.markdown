@@ -1,0 +1,19 @@
+---
+layout: single
+title:  "Our Demo Post!"
+date:   2022-04-18 21:38:36 -0700
+author: "Bill Hu"
+categories: tutorial
+---
+Yay our first post!
+
+{% highlight py %}
+print("Hello World")
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
